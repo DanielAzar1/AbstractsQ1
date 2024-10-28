@@ -11,6 +11,6 @@ public class Bicycle extends Vehicles{
 
     @Override
     public void accelerate() {
-        System.out.println("Peda");
+        System.out.println("Pedal");
     }
 }
